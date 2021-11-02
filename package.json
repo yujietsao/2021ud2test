@@ -1,0 +1,26 @@
+{
+  "name": "2021ud2test",
+  "version": "1.0.0",
+  "description": "Bootstrap example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujietsao/2021ud2test.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "yujietsao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujietsao/2021ud2test/issues"
+  },
+  "homepage": "https://github.com/yujietsao/2021ud2test#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.10.2",
+    "bootstrap": "^5.1.3"
+  }
+}
